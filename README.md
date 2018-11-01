@@ -19,5 +19,10 @@ Also, make a grip what haves enough strenght to take objects and move them.
 * You can write 6 commands. If you input more than 6 commands, the program show a error messaje.
 * You must buld correctly the arduino base.
 
+## **FINAL BUILD**
+
+![imagen](https://github.com/macario96/Java-Arduino-Brazo-Robot/blob/master/kit-brazo-robotico-6-servomotores-6-gdl-S_516401-MEC20325145979_062015-F-1.jpg)
+***
+
 
 
